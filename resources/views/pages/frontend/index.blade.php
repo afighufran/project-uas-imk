@@ -77,7 +77,7 @@
                 <h5 class="text-lg font-semibold">Living Room</h5>
                 <span class="">18.309 items</span>
               </div>
-              <a href="details.html" class="stretched-link">
+              <a href="#" class="stretched-link">
                 <!-- fake children -->
               </a>
             </div>
@@ -97,7 +97,7 @@
                 <h5 class="text-lg font-semibold">Decoration</h5>
                 <span class="">77.392 items</span>
               </div>
-              <a href="details.html" class="stretched-link">
+              <a href="#" class="stretched-link">
                 <!-- fake children -->
               </a>
             </div>
@@ -117,7 +117,7 @@
                 <h5 class="text-lg font-semibold">Living Room</h5>
                 <span class="">22.094 items</span>
               </div>
-              <a href="details.html" class="stretched-link">
+              <a href="#" class="stretched-link">
                 <!-- fake children -->
               </a>
             </div>
@@ -135,7 +135,7 @@
                 <h5 class="text-lg font-semibold">Children Room</h5>
                 <span class="">837 items</span>
               </div>
-              <a href="details.html" class="stretched-link">
+              <a href="#" class="stretched-link">
                 <!-- fake children -->
               </a>
             </div>
