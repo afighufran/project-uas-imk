@@ -159,6 +159,7 @@
           <div class="flex -mx-4 flex-row relative">
             <!-- START: JUST ARRIVED ROW 1 -->
             @foreach ($products as $product)
+            {{ Storage::url($product->galleries->first()->url) }}
             <div class="px-4 relative card group">
               <div
                 class="rounded-xl overflow-hidden card-shadow relative"
